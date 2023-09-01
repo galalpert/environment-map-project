@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/assimp/assimp/archive/refs/tags/v5.2.4.zip'
+tag='MD5=056d1c419daab16e4227fccad711fc97'

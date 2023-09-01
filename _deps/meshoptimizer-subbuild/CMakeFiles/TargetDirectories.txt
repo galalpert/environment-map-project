@@ -1,0 +1,3 @@
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/meshoptimizer-subbuild/CMakeFiles/meshoptimizer-populate.dir
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/meshoptimizer-subbuild/CMakeFiles/edit_cache.dir
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/meshoptimizer-subbuild/CMakeFiles/rebuild_cache.dir

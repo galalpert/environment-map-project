@@ -1,0 +1,14 @@
+# Target labels
+ assimp-populate
+# Source files and their labels
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/assimp-subbuild/CMakeFiles/assimp-populate
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/assimp-subbuild/CMakeFiles/assimp-populate.rule
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/assimp-subbuild/CMakeFiles/assimp-populate-complete.rule
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-build.rule
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-configure.rule
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-download.rule
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-install.rule
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-mkdir.rule
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-patch.rule
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-test.rule
+/mnt/c/Users/talha/Documents/LennyGraphics/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-update.rule

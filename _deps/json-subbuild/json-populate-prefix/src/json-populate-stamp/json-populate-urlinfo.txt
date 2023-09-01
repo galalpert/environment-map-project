@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/nlohmann/json/releases/download/v3.10.5/include.zip'
+tag='MD5=3cea575f0b559e2609507a5ee6469dea'

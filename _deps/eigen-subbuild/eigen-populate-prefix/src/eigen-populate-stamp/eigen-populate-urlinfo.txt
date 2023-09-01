@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://gitlab.com/libeigen/eigen/-/archive/3.4.0/eigen-3.4.0.zip'
+tag='MD5=994092410ba29875184f7725e0371596'

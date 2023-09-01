@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+538ff0a2e3a80028b24371ffcf67896e CMakeFiles/assimp-populate
+6efa6d73b632adbe7ea781c6c02d3d88 CMakeFiles/assimp-populate-complete
+9a604ac239a3ff606b5dc48a47e35598 assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-build
+df82428abf91ccbf12670ce8d013ffe2 assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-configure
+1ef8665bad6aeb0237211d3ead990928 assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-download
+55de4278a61920645648e943fa2d0139 assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-install
+458068bce9f6e71ee6bde14e0b28b7d1 assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-mkdir
+b60b756b6cd3cf8d068dc3d0b85d4cff assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-patch
+974dcf5f4fd7371095a377b4a1f06c55 assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-test
+b68c41c559150baf82aff9c9013fbb40 assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-update
