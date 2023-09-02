@@ -55,16 +55,16 @@ The project has successfully combined OpenGL rendering techniques with environme
 
 
 
-https://github.com/TALHS16/LennyGraphics/assets/101366820/2ae4223e-7334-45df-a473-7297bf93cd47
+https://github.com/galalpert/environment-map-project/assets/101366820/92badff6-6bd8-41f0-b2b5-449e130f70b2
 
 
 
-https://github.com/TALHS16/LennyGraphics/assets/101366820/a5f261f4-9b40-4494-ba09-c76c3c564532
+
+https://github.com/galalpert/environment-map-project/assets/101366820/6c3ae15e-f2a5-46f4-aa44-6b022b87cf19
 
 
 
-https://github.com/TALHS16/LennyGraphics/assets/101366820/cb8c5cbc-3768-45ee-a37e-2b9e124f0cdd
 
-
+https://github.com/galalpert/environment-map-project/assets/101366820/973d2366-b8a3-48e9-a58d-ec86a232403a
 
 
