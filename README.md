@@ -1,5 +1,7 @@
 # Final Project Report: OpenGL Environment Mapping
 ## Project Overview
+I created this project with Tal Hacham Surkiss as part of our Bcs in computer science at University of Haifa.
+
 The primary goal of the project was to implement environment mapping techniques aimed at enhancing the visual realism of the scene.
 
 The secondary goal was to create a sanity check that would validate the correctness of the algorithm. The project consisted of two main components:
